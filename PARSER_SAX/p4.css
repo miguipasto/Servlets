@@ -1,0 +1,15 @@
+#atras{
+    background-color: rgb(255, 159, 70);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#inicio{
+    background-color: rgb(235, 33, 26);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+body{
+    background-image: linear-gradient(to right,rgb(117, 170, 117),white);
+}
